@@ -20,7 +20,8 @@ source env/bin/activate
 ```
 pip install -r requirements.txt
 ```
-Note: Above lines are required for first time installation
+Note: Above lines are required for first time installation.
+
 5)- Execute below commands
 ```
 python manage.py makemigrations
@@ -32,6 +33,20 @@ Note: Above commands should be executed if there is any db level changes
 ```
 python manage.py createsuperuser
 ```
+##Running the server
+```
+python manage.py runserver
+```
+And the project is ready for use on your computer!.
+
+##Screenshot of the project
+
+Home Page:
+
+<img width="1440" alt="Screenshot 2023-05-25 at 7 45 38 PM" src="https://github.com/Ajyrajput-2811/Django_CRUD_Project/assets/119350384/9b9d3e4c-f743-49f4-9fd9-11900950ea08">
+
+
+
 
 
 
