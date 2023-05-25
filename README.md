@@ -41,11 +41,9 @@ And the project is ready for use on your computer!.
 
 ## Screenshot of the project
 Home Page:
-
 <img width="1440" alt="Screenshot 2023-05-25 at 7 45 38 PM" src="https://github.com/Ajyrajput-2811/Django_CRUD_Project/assets/119350384/9b9d3e4c-f743-49f4-9fd9-11900950ea08">
 
 Update Page:
-
 <img width="1440" alt="Screenshot 2023-05-25 at 7 45 53 PM" src="https://github.com/Ajyrajput-2811/Django_CRUD_Project/assets/119350384/c6844143-1c10-4ef3-acd3-ba1ce9b63516">
 
 
